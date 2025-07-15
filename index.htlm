@@ -2,11 +2,18 @@
 <html lang="sv">
 <head>
   <meta charset="UTF-8">
-  <title>Min Första Webbsida</title>
+  <title>Min Portfolio</title>
 </head>
 <body>
-  <h1>Hej världen!</h1>
-  <p>Jag lär mig att skapa webbsidor ✨</p>
+  <h1>👋 Hej! Jag heter Giota </h1>
+  <p>Jag håller på att lära mig webbutveckling via Codecademy.</p>
+
+  <h2>📂 Projekt</h2>
+  <ul>
+    <li>To-do lista (kommer snart!)</li>
+    <li> Fixa själv en webbsida </li>
+  </ul>
+
+ 
 </body>
 </html>
-
