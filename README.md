@@ -9,9 +9,9 @@
   <p>Jag lär mig att skapa webbsidor ✨</p>
   <h2> To-Do list </h2>
   <ul> 
-    <il> Bli klar med min plugg </il>
-    <il> Hitta en praktik </il>
-    <il> Hitta en timmis jobb </il>
+    <li> Bli klar med min plugg </li>
+    <li> Hitta en praktik </li>
+    <li> Hitta en timmis jobb </li>
   </ul>
 </body>
 </html>
