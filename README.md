@@ -1,6 +1,3 @@
-# min-webbsida
-<!DOCTYPE html>
-<html lang="sv">
 <head> 
   <title>Min Första Webbsida</title>
 </head>
